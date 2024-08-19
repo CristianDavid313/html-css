@@ -1,0 +1,43 @@
+/*Esta es una configuración inicial para formatear la pagina de tal forma que eliminamos los margen por defecto*/
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: green;
+}
+
+p{
+    color: brown;
+}
+
+div {
+    color: blueviolet;
+}
+
+/*Para afectar a una clase nos referimos a ella con un . al comienzo seguido del nombre de la clase*/
+.uno {
+    color: cadetblue;
+}
+
+.padre {
+    background: #F23B00;
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+}
+
+.hijo {
+    height: 100px;
+    width: 100px;
+    background: black;
+    margin: 120px;
+}
+
+/*Al especificar 2 etiquetas consecutivas le indicamos que solo queremos afectar la etiqueta span siempe y cuando este dentro de una etiqueta p*/
+p span {
+    color:blue;
+}
