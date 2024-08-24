@@ -16,8 +16,10 @@ git clone https://github.com/CristianDavid313/html-css.git
 * En la carpeta **TeoriaFlex** encontrara ejemplos de como usar Flex para crear paginas responsivas.
 * En la carpeta **TeoriaPosicionRelativaAbsoluta** encontrara ejemplos de como usar Position en CSS.
 * En la carpeta **TeoriaBeforeAfter** encontrara un ejemplo simple del como funciona el Before y el After a nivel de CSS.
-* En la carpeta **MenuBasico** encontrara un ejemplo de un Header responsivo a pantallas de pc y moviles:
-![Captura del ejercicio](https://github.com/CristianDavid313/html-css/blob/main/Capturas/01_MenuBasico.png)
+* En la carpeta **01_MenuBasico** encontrara un ejemplo de un Header responsivo a pantallas de pc y moviles:
+![01_MenuBasico](https://github.com/CristianDavid313/html-css/blob/main/Capturas/01_MenuBasico.png)
+* En la carpeta **02_ImagenesApiladas** encontrara un ejemplo de una galeria de imagenes responsiva:
+![02_ImagenesApiladas](https://github.com/CristianDavid313/html-css/blob/main/Capturas/02_ImagenesApiladas.png)
 
 ## Referencias 🔧
 
