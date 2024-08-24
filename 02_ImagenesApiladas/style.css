@@ -7,9 +7,10 @@ body {
 }
 
 .imagenes-container {
-    margin: 100px auto;
-    width: 500px;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 .imagenes-container .imagen {
@@ -20,8 +21,9 @@ body {
 }
 
 .imagenes-container .imagen img {
-    width: 50px;
-    height: 50px;
+    width: 150px;
+    height: 150px;
+    transition: transform 0.3s ease-in-out;
 }
 
 .imagenes-container .imagen .nombre {
@@ -33,8 +35,46 @@ body {
     min-width: 100px;
     width: 150px;
     top: -55px;
+    padding: 10px 15px;
+    left: calc(-20%);
+}
+
+.imagenes-container .imagen .nombre .texto {
+    display: inline-block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    margin: 0 auto;
+    width: 150px;
+    text-align: center;
+    box-sizing: border-box;
 }
 
 .imagenes-container .imagen:hover .nombre{
-    display: flex;
+    display: inline-block;
+    transform: translateY(-20px);
+}
+
+.imagenes-container .imagen .nombre::before {
+    content: "";
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    left: 50%;
+    bottom: -20px;
+    border-top: 10px solid black;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+}
+
+.imagenes-container .imagen:hover img {
+    transform: translateY( -5px );
+}
+
+@media (max-width: 680px) {
+    .imagenes-container {
+        flex-direction: column;
+        height: 110vh;
+    }
 }
