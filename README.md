@@ -20,6 +20,8 @@ git clone https://github.com/CristianDavid313/html-css.git
 ![01_MenuBasico](https://github.com/CristianDavid313/html-css/blob/main/Capturas/01_MenuBasico.png)
 * En la carpeta **02_ImagenesApiladas** encontrara un ejemplo de una galeria de imagenes responsiva:
 ![02_ImagenesApiladas](https://github.com/CristianDavid313/html-css/blob/main/Capturas/02_ImagenesApiladas.png)
+* En la carpeta **03_BarraBusqueda** encontrara un ejemplo de una barra de busqueda utilizando iconos de Google:
+![02_BarraBusqueda](https://github.com/CristianDavid313/html-css/blob/main/Capturas/03_BarraBusqueda.png)
 
 ## Referencias 🔧
 
@@ -27,6 +29,7 @@ Para profundizar en los temas puedes revisar:
 
 * [MDN Web Docs - Mozilla](https://developer.mozilla.org/es/) - Documentación sobre HTML, CSS y JavaScript.
 * [CSS-TRICKS](https://css-tricks.com/guides/) - Documentación sobre CSS y trucos para aplicarlos.
+* [Google Fonts](https://developers.google.com/fonts/docs/material_icons?hl=es-419) - Documentación que nos permite usar iconos de google de forma simple.
 
 ---
 😁
