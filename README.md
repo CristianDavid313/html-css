@@ -21,7 +21,9 @@ git clone https://github.com/CristianDavid313/html-css.git
 * En la carpeta **02_ImagenesApiladas** encontrara un ejemplo de una galeria de imagenes responsiva:
 ![02_ImagenesApiladas](https://github.com/CristianDavid313/html-css/blob/main/Capturas/02_ImagenesApiladas.png)
 * En la carpeta **03_BarraBusqueda** encontrara un ejemplo de una barra de busqueda utilizando iconos de Google:
-![02_BarraBusqueda](https://github.com/CristianDavid313/html-css/blob/main/Capturas/03_BarraBusqueda.png)
+![03_BarraBusqueda](https://github.com/CristianDavid313/html-css/blob/main/Capturas/03_BarraBusqueda.png)
+* En la carpeta **04_Confirmar** encontrara un ejemplo de una venta de confirmación responsiva:
+![04_Confirmar](https://github.com/CristianDavid313/html-css/blob/main/Capturas/04_Confirmar.png)
 
 ## Referencias 🔧
 
