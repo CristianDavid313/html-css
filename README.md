@@ -1,6 +1,6 @@
-# Guía HTML y CSS
+# Guía desarrollo web
 
-Este es un repositorio simple sobre HTML  y CSS en el cual se cargaran varios ejemplos que pueden servir de guía.
+Este es un repositorio simple sobre HTML, CSS y SASS en el cual se cargaran varios ejemplos que pueden servir de guía.
 
 ## Comenzando 🚀
 
@@ -24,6 +24,8 @@ git clone https://github.com/CristianDavid313/html-css.git
 ![03_BarraBusqueda](https://github.com/CristianDavid313/html-css/blob/main/Capturas/03_BarraBusqueda.png)
 * En la carpeta **04_Confirmar** encontrara un ejemplo de una venta de confirmación responsiva:
 ![04_Confirmar](https://github.com/CristianDavid313/html-css/blob/main/Capturas/04_Confirmar.png)
+* En la carpeta **05_CardPokemon** encontrara un ejemplo de una tarjeta de un pokemon adaptable a la vista del navegador utilizando SASS para los estilos de la misma.
+![05_CardPokemon](https://github.com/CristianDavid313/html-css/blob/main/Capturas/05_CardPokemon.png)
 
 ## Referencias 🔧
 
