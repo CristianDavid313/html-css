@@ -24,8 +24,10 @@ git clone https://github.com/CristianDavid313/html-css.git
 ![03_BarraBusqueda](https://github.com/CristianDavid313/html-css/blob/main/Capturas/03_BarraBusqueda.png)
 * En la carpeta **04_Confirmar** encontrara un ejemplo de una venta de confirmación responsiva:
 ![04_Confirmar](https://github.com/CristianDavid313/html-css/blob/main/Capturas/04_Confirmar.png)
-* En la carpeta **05_CardPokemon** encontrara un ejemplo de una tarjeta de un pokemon adaptable a la vista del navegador utilizando SASS para los estilos de la misma.
+* En la carpeta **05_CardPokemon** encontrara un ejemplo de una tarjeta de un pokemon adaptable a la vista del navegador utilizando SASS para los estilos de la misma:
 ![05_CardPokemon](https://github.com/CristianDavid313/html-css/blob/main/Capturas/05_CardPokemon.png)
+* En la carpeta **06_LandingPage** encontrara un ejemplo de una pagina de inicio de un sitio web, esta se adapta a la resolucion de las pantallas automaticamente:
+![05_CardPokemon](https://github.com/CristianDavid313/html-css/blob/main/Capturas/06_LandingPage.png)
 
 ## Referencias 🔧
 
