@@ -48,6 +48,10 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 ![07_MenuAnimado](https://github.com/CristianDavid313/html-css/blob/main/Capturas/07_MenuAnimado.png)
 
+* En la carpeta **08_Keyframes** encontrara un ejemplo de un fondo animado capaz de adaptarse a la resolucion de las pantallas automaticamente:
+
+![08_Keyframes](https://github.com/CristianDavid313/html-css/blob/main/Capturas/08_Keyframes.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:
