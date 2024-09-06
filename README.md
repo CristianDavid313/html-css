@@ -52,6 +52,10 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 ![08_Keyframes](https://github.com/CristianDavid313/html-css/blob/main/Capturas/08_Keyframes.png)
 
+* En la carpeta **09_CardNike** encontrara un ejemplo de una tarjeta de un producto, en este caso un par de zapatos, que muestra la información de los mismos al posicionar el cursor sobre los mismos:
+
+![09_CardNike](https://github.com/CristianDavid313/html-css/blob/main/Capturas/09_CardNike.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:
