@@ -56,9 +56,13 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 ![09_CardNike](https://github.com/CristianDavid313/html-css/blob/main/Capturas/09_CardNike.png)
 
-* En la carpeta **10_NetflixPage** encontrara un ejemplo de una pagina clonica de netflix, la cual muestra una vista general de una serie de Netflix y nos permite reproducir el video del trailer al precionar el boton del final.
+* En la carpeta **10_NetflixPage** encontrara un ejemplo de una pagina clonica de netflix, la cual muestra una vista general de una serie de Netflix y nos permite reproducir el video del trailer al precionar el boton del final:
 
 ![10_NetflixPage](https://github.com/CristianDavid313/html-css/blob/main/Capturas/10_NetflixPage.png)
+
+* En la carpeta **11_CharacterList** encontrara un ejemplo de una lista de actores que revelara el puesto de los mismos al pasar el cursor por encima de cada actor:
+
+![11_CharacterList](https://github.com/CristianDavid313/html-css/blob/main/Capturas/11_CharacterList.png)
 
 ## Referencias 🔧
 
@@ -68,6 +72,7 @@ Para profundizar en los temas puedes revisar:
 * [CSS-TRICKS](https://css-tricks.com/guides/) - Documentación sobre CSS y trucos para aplicarlos.
 * [Google Fonts](https://developers.google.com/fonts/docs/material_icons?hl=es-419) - Documentación que nos permite usar iconos de google de forma simple.
 * [Ionicons](https://ionic.io/ionicons/usage) - Documentación que nos permite usar iconos (una alternativa a Google Fonts).
+* [Google Font](https://fonts.google.com/?query=poppins) - Documentación que nos permite importar fuentas para la letra de nuestro proyecto.
 
 ---
 😁
