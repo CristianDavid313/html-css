@@ -56,6 +56,10 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 ![09_CardNike](https://github.com/CristianDavid313/html-css/blob/main/Capturas/09_CardNike.png)
 
+* En la carpeta **10_NetflixPage** encontrara un ejemplo de una pagina clonica de netflix, la cual muestra una vista general de una serie de Netflix y nos permite reproducir el video del trailer al precionar el boton del final.
+
+![10_NetflixPage](https://github.com/CristianDavid313/html-css/blob/main/Capturas/10_NetflixPage.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:
