@@ -64,6 +64,10 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 ![11_CharacterList](https://github.com/CristianDavid313/html-css/blob/main/Capturas/11_CharacterList.png)
 
+* En la carpeta **12_Hover** encontrara un ejemplo de una galería de tarjetas que muestran una breve información del personaje y sus redes:
+
+![12_Hover](https://github.com/CristianDavid313/html-css/blob/main/Capturas/12_Hover.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:
