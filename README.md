@@ -76,6 +76,10 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 ![14_Ondas](https://github.com/CristianDavid313/html-css/blob/main/Capturas/14_Ondas.png)
 
+* En la carpeta **15_XiaomiPage** encontrara un pagina de inicio para la marca de celulares Xiaomi la cual tiene una animación en su imagen:
+
+![15_XiaomiPage](https://github.com/CristianDavid313/html-css/blob/main/Capturas/15_XiaomiPage.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:
