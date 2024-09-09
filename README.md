@@ -80,6 +80,10 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 ![15_XiaomiPage](https://github.com/CristianDavid313/html-css/blob/main/Capturas/15_XiaomiPage.png)
 
+* En la carpeta **16_Audio** encontrara un ejemplo de como utilizar la etiqueta audio en HTMl:
+
+![16_Audio](https://github.com/CristianDavid313/html-css/blob/main/Capturas/16_Audio.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:
