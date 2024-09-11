@@ -84,6 +84,10 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 ![16_Audio](https://github.com/CristianDavid313/html-css/blob/main/Capturas/16_Audio.png)
 
+* En la carpeta **17_PageHover** encontrara un ejemplo de tarjeta con un efeto "Hover" que muestra un texto en cada tarjeta al pasar el cursor sobre las mismas:
+
+![17_PageHover](https://github.com/CristianDavid313/html-css/blob/main/Capturas/17_PageHover.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:
