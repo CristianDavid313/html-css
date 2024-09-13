@@ -88,6 +88,10 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 ![17_HoverPage](https://github.com/CristianDavid313/html-css/blob/main/Capturas/17_HoverPage.png)
 
+* En la carpeta **18_Card** encontrara un ejemplo de 3 tarjetas con un efecto "Hover", las cuales se pueden adaptar al tamaño de la pantalla:
+
+![18_Card](https://github.com/CristianDavid313/html-css/blob/main/Capturas/18_Card.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:
