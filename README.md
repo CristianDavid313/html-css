@@ -92,6 +92,10 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 ![18_Card](https://github.com/CristianDavid313/html-css/blob/main/Capturas/18_Card.png)
 
+* En la carpeta **19_Texto** encontrara un ejemplo de un texto que se ilumina al pasar el cursor sobre el texto:
+
+![19_Texto](https://github.com/CristianDavid313/html-css/blob/main/Capturas/19_Texto.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:
