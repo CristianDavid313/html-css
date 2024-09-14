@@ -20,7 +20,7 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 * En la carpeta **TeoriaBeforeAfter** encontrara un ejemplo simple del como funciona el Before y el After a nivel de CSS.
 
-* En la carpeta **TeoriaRotacion3D** encontrara los conceptos basicos de como aplicar efectos 3D en sitios wed.
+* En la carpeta **TeoriaRotacion3D** encontrara los conceptos basicos de como aplicar efectos 3D en sitios web.
 
 * En la carpeta **01_MenuBasico** encontrara un ejemplo de un Header responsivo a pantallas de pc y moviles:
 
@@ -97,6 +97,10 @@ git clone https://github.com/CristianDavid313/html-css.git
 * En la carpeta **19_Texto** encontrara un ejemplo de un texto que se ilumina al pasar el cursor sobre el texto:
 
 ![19_Texto](https://github.com/CristianDavid313/html-css/blob/main/Capturas/19_Texto.png)
+
+* En la carpeta **20_Card3D** encontrara un ejemplo de un grupo de tarjetas con un efecto en 3D que revela un texto al pasar el cursor sobre las imagenes:
+
+![20_Card3D](https://github.com/CristianDavid313/html-css/blob/main/Capturas/20_Card3D.png)
 
 ## Referencias 🔧
 
