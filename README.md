@@ -102,6 +102,10 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 ![20_Card3D](https://github.com/CristianDavid313/html-css/blob/main/Capturas/20_Card3D.png)
 
+* En la carpeta **21_Tarjetas** encontrara un ejemplo de una sección de preguntas que se despliegan al dar clic sobre cada una de ellas:
+
+![21_Tarjetas](https://github.com/CristianDavid313/html-css/blob/main/Capturas/21_Tarjetas.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:
