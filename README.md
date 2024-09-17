@@ -106,6 +106,10 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 ![21_Tarjetas](https://github.com/CristianDavid313/html-css/blob/main/Capturas/21_Tarjetas.png)
 
+* En la carpeta **22_Toggle** encontrara un ejemplo de un toggle que nos permite pasar de un estado a otro (On/Off), al mismo tiempo la imagen cambia en función de que opción esta activada:
+
+![22_Toggle](https://github.com/CristianDavid313/html-css/blob/main/Capturas/22_Toggle.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:

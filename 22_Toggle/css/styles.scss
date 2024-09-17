@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: radial-gradient(#555555, #292929);
+    min-height: 100vh;
+
+    label {
+        position: relative;
+        width: 300px;
+        height: 150px;
+        background: #3E3E3E;
+        box-shadow: 0 0 0 4px #303030;
+        border-radius: 75px;
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    
+        input {
+            appearance: none;
+    
+            &:checked {
+                ~ {
+                    span {
+                        left: 150px;
+                        background: url(../img/luna.webp);
+                        background-size: 150px;
+                        background-repeat: no-repeat;
+                        transform: rotate(360deg);
+                    }
+    
+                    text {
+                        color: #8F8F8F;
+                        filter: none;
+
+                        &:last-child {
+                            color: white;
+                            filter: drop-shadow(0 0 15px white) drop-shadow(0 0 35px white);
+                        }
+                    }
+                }
+            }
+        }
+
+        span {
+            position: absolute;
+            left: 0;
+            width: 175px;
+            height: 150px;
+            background: url(../img/sol.png);
+            background-size: auto 150px;
+            background-repeat: no-repeat;
+            transition: 1.5s;
+            transform: rotate(-180deg);
+            transform-origin: 75px;
+        }
+
+        text {
+            position: absolute;
+            left: -60px;
+            color: white;
+            font-size: 1em;
+            font-weight: 800;
+            filter: drop-shadow(0 0 15px white) drop-shadow(0 0 35px white);
+            transition: 1.5s;
+
+            &:last-child {
+                position: absolute;
+                left: initial;
+                right: -60px;
+                color: #8F8F8F;
+                filter: none;
+            }
+        }
+    }
+}
