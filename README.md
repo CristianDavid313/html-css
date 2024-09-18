@@ -110,6 +110,10 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 ![22_Toggle](https://github.com/CristianDavid313/html-css/blob/main/Capturas/22_Toggle.png)
 
+* En la carpeta **23_DeadpoolCard** encontrara un ejemplo de una tarjeta de la película Deadpool and Wolverine, la cual arroja los datos de la misma al pasar el cursor sobre la tarjeta:
+
+![23_DeadpoolCard](https://github.com/CristianDavid313/html-css/blob/main/Capturas/23_DeadpoolCard.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:
@@ -117,7 +121,7 @@ Para profundizar en los temas puedes revisar:
 * [MDN Web Docs - Mozilla](https://developer.mozilla.org/es/) - Documentación sobre HTML, CSS y JavaScript.
 * [CSS-TRICKS](https://css-tricks.com/guides/) - Documentación sobre CSS y trucos para aplicarlos.
 * [Google Fonts](https://developers.google.com/fonts/docs/material_icons?hl=es-419) - Documentación que nos permite usar iconos de google de forma simple.
-* [Ionicons](https://ionic.io/ionicons/usage) - Documentación que nos permite usar iconos (una alternativa a Google Fonts).
+* [Ionicons](https://ionic.io/ionicons/usage) - Documentación que nos permite usar iconos.
 * [Google Font](https://fonts.google.com/?query=poppins) - Documentación que nos permite importar fuentas para la letra de nuestro proyecto.
 
 ---
