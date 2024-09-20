@@ -114,6 +114,10 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 ![23_DeadpoolCard](https://github.com/CristianDavid313/html-css/blob/main/Capturas/23_DeadpoolCard.png)
 
+* En la carpeta **24_SkateCard** encontrara un ejemplo de una tarjeta de una tabla para skate con animaciones 3D que se activan al pasar el cursor sobre la tarjeta:
+
+![24_SkateCard](https://github.com/CristianDavid313/html-css/blob/main/Capturas/24_SkateCard.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:
