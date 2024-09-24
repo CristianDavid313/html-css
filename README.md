@@ -22,6 +22,8 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 * En la carpeta **TeoriaRotacion3D** encontrara los conceptos basicos de como aplicar efectos 3D en sitios web.
 
+* En la carpeta **TeoriaGrid** encontrara los conceptos basicos de como aplicar grid para la maquetación de los sitios web.
+
 * En la carpeta **01_MenuBasico** encontrara un ejemplo de un Header responsivo a pantallas de pc y moviles:
 
 ![01_MenuBasico](https://github.com/CristianDavid313/html-css/blob/main/Capturas/01_MenuBasico.png)
