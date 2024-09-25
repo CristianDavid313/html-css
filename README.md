@@ -124,6 +124,10 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 ![25_GridCard](https://github.com/CristianDavid313/html-css/blob/main/Capturas/25_GridCard.png)
 
+* En la carpeta **26_GridOrganizado** encontrara un ejemplo de un grupo de tarjetas con imagenes de multiples personajes responsiva a las pantallas de cada dispositivo:
+
+![26_GridOrganizado](https://github.com/CristianDavid313/html-css/blob/main/Capturas/26_GridOrganizado.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:
