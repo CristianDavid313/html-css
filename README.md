@@ -120,6 +120,10 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 ![24_SkateCard](https://github.com/CristianDavid313/html-css/blob/main/Capturas/24_SkateCard.png)
 
+* En la carpeta **25_GridCard** encontrara un ejemplo de un catalogo de peliculas de MARVEL con un diseño responsivo al pasar el cursor sobre cada una de las tarjetas y a su vez se ajustara si la resolucion es de una pantalla movil:
+
+![25_GridCard](https://github.com/CristianDavid313/html-css/blob/main/Capturas/25_GridCard.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:
