@@ -24,6 +24,8 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 * En la carpeta **TeoriaGrid** encontrará los conceptos básicos de cómo aplicar grid para la maquetación de los sitios web.
 
+* En la carpeta **TeoriaBreakPoints** encontrará los conceptos básicos de cómo aplicar los break point a los sitios web con el fin de volverlos responsivos.
+
 * En la carpeta **01_MenuBasico** encontrará un ejemplo de un Header responsivo a pantallas de pc y móviles:
 
 ![01_MenuBasico](https://github.com/CristianDavid313/html-css/blob/main/Capturas/01_MenuBasico.png)
