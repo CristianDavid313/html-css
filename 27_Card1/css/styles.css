@@ -1,0 +1,142 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Libre Franklin", sans-serif;
+}
+
+body {
+  background: #CCC;
+  background-repeat: no-repeat;
+  background-color: #D2EAEA;
+  background-image: linear-gradient(to right top, #D2EAEA 0%, #F9F9F9 49%, #F9F9F9 49%, #F7EEC3 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+body .container {
+  position: relative;
+  margin: 70px auto;
+  width: 350px;
+  height: 470px;
+  text-align: center;
+  background: #FFF;
+  border-radius: 12px;
+  box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.1), 0px 60px 75px -25px rgba(0, 0, 0, 0.2);
+}
+body .container .img-cart {
+  width: 290px;
+  margin-top: -60px;
+  animation: flotar 2s ease-in-out infinite;
+}
+body .container h3 {
+  font-size: 30px;
+  letter-spacing: 3px;
+  margin-top: 35px;
+  color: #EA1D24;
+}
+body .container .control-btn span {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  background: #F22D34;
+  border-radius: 100%;
+  color: white;
+  font-size: 13px;
+  cursor: pointer;
+  box-shadow: 0px 2px 7px rgba(241, 44, 51, 0.7);
+  transition: 0.3s ease-in;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+body .container .control-btn span:hover {
+  background: #DE2128;
+}
+body .container .control-btn .prev {
+  left: -17.5px;
+}
+body .container .control-btn .next {
+  right: -17.5px;
+}
+body .container p {
+  font-size: 11px;
+  padding: 15px 45px;
+  color: #878787;
+  line-height: 22px;
+}
+body .container .properties {
+  margin-top: 20px;
+  height: 130px;
+}
+body .container .properties div {
+  text-align: center;
+  width: 33.33%;
+  float: left;
+}
+body .container .properties div h4 {
+  font-size: 14px;
+  color: #757575;
+  padding: 25px 0px;
+}
+body .container .properties .qty .fa {
+  font-size: 7px;
+  color: #757575;
+  background: #DFDFDF;
+  border-radius: 100%;
+  padding: 4px;
+  cursor: pointer;
+}
+body .container .properties .qty .number {
+  font-size: 11px;
+  color: #757575;
+  padding: 5px;
+}
+body .container .properties .price .fa {
+  font-size: 18px;
+  color: #757575;
+}
+body .container .properties .price .amount {
+  color: #646363;
+  font-size: 18px;
+  padding: 0px 5px;
+}
+body .container .properties .delivery .fa {
+  font-size: 15px;
+  color: #757575;
+}
+body .container .properties .delivery .time {
+  display: inline-block;
+  color: #757575;
+  font-size: 11px;
+}
+body .container .ip-add-cart {
+  border: none;
+  padding: 12px 50px;
+  background: #F22D34;
+  color: white;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: bold;
+  border-radius: 25px;
+  box-shadow: 0px 15px 45px rgba(242, 45, 52, 0.5);
+  cursor: pointer;
+  transition: 0.3s ease-in;
+}
+body .container .ip-add-cart:hover {
+  background: #DA1920;
+}
+
+@keyframes flotar {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-15px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}/*# sourceMappingURL=styles.css.map */
