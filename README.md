@@ -134,6 +134,10 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 ![27_Card1](https://github.com/CristianDavid313/html-css/blob/main/Capturas/27_Card1.png)
 
+* En la carpeta **28_Card2** encontrará un ejemplo de varias tarjetas con información de un producto y sus respectivas animaciones:
+
+![28_Card2](https://github.com/CristianDavid313/html-css/blob/main/Capturas/28_Card2.png)
+
 ## Referencias 🔧
 
 Para profundizar en los temas puedes revisar:

@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'League Spartan', system-ui, sans-serif;
+}
+
+body {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  font-size: 1.1rem;
+  line-height: 1.2;
+  background-color: #212121;
+  color: whitesmoke;
+}
+
+ul {
+  list-style: none;
+}
+
+.main {
+  max-width: 75rem;
+  padding: 3em 1.5em;
+
+  .main_heading {
+    font-weight: 600;
+    font-size: 2.25em;
+    margin-bottom: 0.75em;
+    text-align: center;
+    color: #ECEFF1;
+  }
+
+  .cards {
+    position: relative;
+
+    .cards_inner {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 2.5em;
+    }
+  }
+}
+
+.card {
+  --hsl: var(--hue), var(--saturacion), var(--luminosidad);
+  display: grid;
+  flex: 1 1 14rem;
+  grid-template-rows: auto auto auto 1fr;
+  align-items: start;
+  gap: 1.25em;
+  color: #ECEFF1;
+  background-color: #2B2B2B;
+  border: 1px solid #ECEFF133;
+  border-radius: 15px;
+  padding: 1.5em 2em;
+  transition: 0.4s background ease;
+
+  &:hover {
+    background: hsla(var(--hsl), 0.1);
+  }
+
+  &:nth-child(1) {
+    --hue: 165;
+    --saturacion: 82.26%;
+    --luminosidad: 51.37%;
+  }
+
+  &:nth-child(2) {
+    --hue: 291.34;
+    --saturacion: 95.9%;
+    --luminosidad: 61.76%;
+  }
+
+  &:nth-child(3) {
+    --hue: 338.69;
+    --saturacion: 100%;
+    --luminosidad: 48.04%;
+  }
+
+  .card_heading {
+    font-size: 1.05em;
+    font-weight: 600;
+  }
+
+  .card_price {
+    font-size: 1.75em;
+    font-weight: 700;
+  }
+
+  .card_bullets {
+    line-height: 1.4;
+  
+    li {
+      &::before {
+        display: inline-block;
+        content: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAOJJREFUSEvtktERgjAQRG870U6kErESoRK1EinFTtYcE5njSCA4w4cj+YHJ3uzL7R1k44ON/WUHLCb8pxGRrAHcU/l4bXVEJJ8ichKRi4ektFUAY/ASkQqAfvuT04oBJJvgc41+at4Z86xWBCCpkWg0erx5VtPiEYDkLdy1rvWvzUcAE4Hm+gDQuJcrWKP4ZG7BI81u19AByYOI1Cbn1vx3AKo4TDU+x1q9GrTU2k5m4IY5MWAoMEaz5pMZmPa1m36oAI72ZbHTpFbUgYXYYXtITvOQojVNvaz0bgcsJvX7Eb0B5Mh2GTPUfgkAAAAASUVORK5CYII=");
+        margin-right: 1rem;
+        transform: translateY(0.25rem);
+      }
+    }
+  }
+
+  .cta {
+    display: block;
+    align-self: end;
+    margin: 1em 0 0.5em 0;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #0D0D0D;
+    padding: 0.7em;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+  }
+}
