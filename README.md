@@ -28,6 +28,8 @@ git clone https://github.com/CristianDavid313/html-css.git
 
 * En la carpeta **01_MenuBasico** encontrará un ejemplo de un Header responsivo a pantallas de pc y móviles:
 
+## Ejemplo Prácticos 📢
+
 ![01_MenuBasico](https://github.com/CristianDavid313/html-css/blob/main/Capturas/01_MenuBasico.png)
 
 * En la carpeta **02_ImagenesApiladas** encontrará un ejemplo de una galeria de imágenes responsiva:
